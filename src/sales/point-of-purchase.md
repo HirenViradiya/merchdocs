@@ -25,9 +25,3 @@ sections:
 Magento reduces ordering errors by automatically verifying the SKU and availability of all items before an order is submitted. In this section of the guide, you’ll learn how to configure the cart and checkout options, and offer assistance to your customers.
 
 {% include grid.html sections=page.sections %}
-
-## Magento eBook
-
-Top ten tips you can use to increase your conversion rates by evaluating and optimizing your site’s entire shopping experience. Get the [eBook][] now!
-
-[eBook]: https://magento.com/resources/increasing-conversion-rates-ebook
